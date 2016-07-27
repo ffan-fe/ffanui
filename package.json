@@ -1,0 +1,20 @@
+{
+  "name": "ffanui",
+  "version": "1.0.0",
+  "description": "ffanui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffan-fe/ffanui.git"
+  },
+  "keywords": [],
+  "author": "leiming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffan-fe/ffanui/issues"
+  },
+  "homepage": "https://github.com/ffan-fe/ffanui#readme"
+}
